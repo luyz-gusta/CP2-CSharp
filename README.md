@@ -1,6 +1,6 @@
 # Projeto Banco — API
 
-Atividade Avaliativa — Engenharia de Software (3ESR) — FIAP 2026
+Atividade Avaliativa — Engenharia de Software (3ESPW) — FIAP 2026
 Professor Rafael S. Novo Pereira
 
 ## 1. Identificação
